@@ -1,0 +1,179 @@
+.trang{
+	width: 900px;
+	height: 2200px;
+	background:#c9b144;
+	margin: 0 auto;
+}
+.navbar{
+	background-image: url(c.png);
+	
+}
+.navbar li a{
+	color: white;
+}
+.nen{
+	width: 720px;
+	height: 2200px;
+	background:white;
+	margin: 0 auto;
+}
+.li{
+	margin-right: 50px;
+}
+h3{
+	padding-left: 50px;
+	color: white;
+}
+.collapse{
+	margin-right: 50px;
+}
+.nen .dau{
+	width:100%;
+	height: 300px;
+	background-image: url(ly.jpg);
+	
+}
+.nen .dau1{
+	width: 100%;
+	height: 100px;
+	/*background: yellow;*/
+}
+.nen .dau2{
+	width: 100%;
+	height: 200px;
+	/*background: green;*/
+}
+.dau1 h1{
+	text-align: center;
+	padding-top: 20px;
+}
+.dau .con{
+	width: 100%;
+	height: 180px;
+	/*background: red;*/
+}
+.con h1{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 60px;
+	color:white;
+}
+.con1 h4{
+	text-align: center;
+	color: white;
+}
+.dau button{
+	margin-left: 300px;
+	border-radius: 5px;
+	background:green;
+	color: white;
+	border: none;
+}
+.dau2 .con2{
+	width:25%;
+	height: 100%;
+	/*background: red;*/
+	float: left;
+}
+.con2 img{
+	width: 100%;
+	height: 60%;
+}
+.con2 p{
+	text-align: center;
+	padding-top: 8px;
+}
+.dau3 .con3{
+	width:25%;
+	height: 300px;
+	/*background: red;*/
+	float: left;
+}
+.con3 img{
+	width: 100%;
+	height: 100%;
+}
+.dau4{
+	float: left;
+	width: 100%;
+	height: 100px;
+	/*background:pink;*/
+}
+.dau4 h2{
+	text-align: center;
+	padding-top: 20px;
+}
+.nen .dau5{
+	float: left;
+	width: 50%;
+	height: 150px;
+	/*background:pink;*/  k 
+}
+
+.dau5{
+	padding: 10px 0px 0px 25px;
+}
+.nen .dau6{
+	float: left;
+	width: 100%;
+	height: 80px;
+	background: #f7f6f0;
+}
+.dau6 h2{
+	text-align: center;
+}
+.nen .dau7{
+	float: left;
+	width: 100%;
+	height: 300px;
+	background: #f7f6f0;
+}
+.dau7 .box{
+	margin-right: 5px;
+	float: left;
+	width: 22%;
+	height: 100%;
+	background:white;
+}
+.dau7 .c{
+	margin-left: 5%;
+}
+.box img{
+	height: 80%;
+	width: 100%;
+}
+.box h2{
+	text-align: center;
+}
+.nen .dau8{
+	float: left;
+	width: 50%;
+	height: 250px;
+	/*background:red;*/
+}
+.dau8 h4{
+	padding-top: 40px;
+	padding-left: 30px;
+}
+.dau8 h6{
+	padding: 10px 0px 0px 30px;
+	line-height: 1.3em;
+}
+.dau8 p{
+	padding: 10px 0px 0px 30px;
+	line-height: 1em;
+}
+.nen .end{
+	float: left;
+	width: 33.3%;
+	height: 112px;
+	background-color: #f7f6f0;
+}
+.end h3{
+	color: black;
+}
+.end p{
+	font-size: 13px;
+	padding: 10px 0px 0px 50px;
+	line-height: 1em;
+}
